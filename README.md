@@ -14,14 +14,14 @@
 
 **Мои проекты:**\
 **Плеер Подкастов(UIKit):**\
-https://github.com/Zhingel/PodcastsPlayer
+https://github.com/Zhingel/PodcastsPlayer \
 **Список дел(SwiftUI):**\
-https://github.com/Zhingel/KatiaToDoList
+https://github.com/Zhingel/KatiaToDoList \
 **Проект с хакатона(UIKit + SwiftUI):**\
-https://github.com/Zhingel/HaqatonLetDoThis
+https://github.com/Zhingel/HaqatonLetDoThis \
 **Инстаграм(UIKit + FireBase):**\
-https://github.com/Zhingel/InstaFireBase
+https://github.com/Zhingel/InstaFireBase \
 **Игра в слова с умными массивами(SwiftUI):**\
-https://github.com/Zhingel/LearnWordsGame
+https://github.com/Zhingel/LearnWordsGame \
 **Список любимых мест с использованием Realm:**\
-https://github.com/Zhingel/myPlaces
+https://github.com/Zhingel/myPlaces \
