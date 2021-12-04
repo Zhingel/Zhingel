@@ -24,4 +24,4 @@ https://github.com/Zhingel/InstaFireBase \
 **Игра в слова с умными массивами(SwiftUI):**\
 https://github.com/Zhingel/LearnWordsGame \
 **Список любимых мест с использованием Realm:**\
-https://github.com/Zhingel/myPlaces \
+https://github.com/Zhingel/myPlaces 
